@@ -1,0 +1,3 @@
+file := test.c
+CC 	 := gcc 
+PATH_TO_OBJECT :="runprogram"
