@@ -1,12 +1,11 @@
 # MakeFile
-
+channel on Youtube : https://www.youtube.com/channel/UCHTjN5FEITwRyb4IA3F8c4Q/playlists
 ### what is Make ?
 
  - Make is a scripting tool is used for building executable 
 	 according to commands
  - Make tool parse an input file " Makefile" to define rules that it will run 
  - two types of Make ( GNU Make - Borland Make)
-
 ---
 
 ### Why we need Make ?
