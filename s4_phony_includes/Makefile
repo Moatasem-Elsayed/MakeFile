@@ -6,7 +6,7 @@
 #########################################################################
 include makeconfig
 build: compile
-	@$(CC) $(file) -o runprogram
+	$(CC) $(file) -o runprogram
 compile:
 	@$(CC) -c $(file)
 
